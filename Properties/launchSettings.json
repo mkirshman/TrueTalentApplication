@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "TrueTalentApplication": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7257"
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      "httpPort": 32537,
+      "useSSL": false
+    }
+  }
+}
